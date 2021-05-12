@@ -5,16 +5,20 @@ img {
 a {
   text-decoration: none;
 }
-.container {
-  text-align: center;
-  font-family: "Courgette", cursive;
-  font-size: 30px;
-  margin-top: 30px;
-}
 .active {
   color: #212529;
   cursor: default;
 }
 .active:hover {
   text-decoration: none;
+}
+.container {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-size: 30px;
+  margin-top: 30px;
+}
+.main {
+  border-radius: 30px;
+  background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
 }
