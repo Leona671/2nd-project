@@ -1,0 +1,20 @@
+img {
+  display: block;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  text-align: center;
+  font-family: "Courgette", cursive;
+  font-size: 30px;
+  margin-top: 30px;
+}
+.active {
+  color: #212529;
+  cursor: default;
+}
+.active:hover {
+  text-decoration: none;
+}
